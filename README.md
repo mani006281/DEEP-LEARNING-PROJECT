@@ -44,4 +44,8 @@ The CNN model achieved good classification performance and produced visual resul
 
 ![Image](https://github.com/user-attachments/assets/11370e30-342d-4dc8-a189-0f58492da21b)
 
+![Image](https://github.com/user-attachments/assets/34c67bdc-5dbd-45e1-b4ea-2367555b30c7)
+
+![Image](https://github.com/user-attachments/assets/07b88c9c-a604-4c29-afcd-cb3c8e103b31)
+
 
