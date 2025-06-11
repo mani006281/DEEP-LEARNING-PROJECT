@@ -40,3 +40,8 @@ Output Organization: All outputs saved in a folder named cifar10_output/.
 Outcome:
 The CNN model achieved good classification performance and produced visual results for better understanding. All code outputs, plots, and model summaries were saved for review or submission.
 
+#OUT PUT
+
+![Image](https://github.com/user-attachments/assets/11370e30-342d-4dc8-a189-0f58492da21b)
+
+
